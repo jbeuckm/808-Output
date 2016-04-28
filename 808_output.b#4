@@ -2118,9 +2118,9 @@ design rules under a new name.</description>
 <signal name="N$22">
 <contactref element="OUTPUT" pad="2"/>
 <contactref element="C12" pad="-"/>
-<wire x1="23.3172" y1="49.3776" x2="26.7462" y2="52.8066" width="0.9144" layer="16"/>
+<wire x1="25.2222" y1="50.0126" x2="26.7462" y2="52.8066" width="0.9144" layer="16"/>
 <wire x1="26.7462" y1="52.8066" x2="27.305" y2="53.34" width="0.9144" layer="16"/>
-<wire x1="23.3172" y1="49.3776" x2="22.86" y2="49.53" width="0.9144" layer="16"/>
+<wire x1="25.2222" y1="50.0126" x2="22.86" y2="49.53" width="0.9144" layer="16"/>
 </signal>
 <signal name="GND">
 <contactref element="IC1" pad="3"/>
