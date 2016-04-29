@@ -2072,9 +2072,9 @@ design rules under a new name.</description>
 <contactref element="C8" pad="2"/>
 <contactref element="D2" pad="C"/>
 <contactref element="C12" pad="+"/>
-<wire x1="22.6314" y1="52.1208" x2="19.2024" y2="48.6918" width="0.9144" layer="16"/>
+<wire x1="21.3614" y1="52.1208" x2="19.2024" y2="48.6918" width="0.9144" layer="16"/>
 <wire x1="19.2024" y1="48.6918" x2="19.05" y2="48.26" width="0.9144" layer="16"/>
-<wire x1="22.6314" y1="52.1208" x2="22.86" y2="52.07" width="0.9144" layer="16"/>
+<wire x1="21.3614" y1="52.1208" x2="22.86" y2="52.07" width="0.9144" layer="16"/>
 <wire x1="19.8882" y1="58.293" x2="17.8308" y2="58.293" width="0.9144" layer="16"/>
 <wire x1="17.8308" y1="58.293" x2="17.78" y2="58.42" width="0.9144" layer="16"/>
 <wire x1="19.8882" y1="58.293" x2="20.32" y2="58.42" width="0.9144" layer="16"/>

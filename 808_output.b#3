@@ -1768,7 +1768,7 @@ design rules under a new name.</description>
 <element name="CP" library="rcl" package="0207/5V" value="33k" x="15.24" y="19.05"/>
 <element name="CY" library="rcl" package="0207/5V" value="47k" x="15.24" y="3.81"/>
 <element name="D1" library="808_lt" package="DO-1N4148" value="" x="25.4" y="62.23" rot="R90"/>
-<element name="D2" library="808_lt" package="DO-1N4148" value="" x="15.24" y="48.26"/>
+<element name="D2" library="808_lt" package="DO-1N4148" value="" x="15.875" y="48.26"/>
 <element name="HT" library="rcl" package="0207/5V" value="33k" x="15.24" y="26.67"/>
 <element name="IC1" library="linear" package="DIL08" value="TL072P" x="13.97" y="57.15" rot="R270"/>
 <element name="LT" library="rcl" package="0207/5V" value="33k" x="15.24" y="34.29"/>
@@ -1872,7 +1872,7 @@ design rules under a new name.</description>
 <contactref element="D2" pad="A"/>
 <wire x1="12.3444" y1="49.3776" x2="12.3444" y2="50.7492" width="0.9144" layer="16"/>
 <wire x1="11.6586" y1="48.6918" x2="12.3444" y2="49.3776" width="0.9144" layer="16"/>
-<wire x1="11.6586" y1="48.6918" x2="11.43" y2="48.26" width="0.9144" layer="16"/>
+<wire x1="11.6586" y1="48.6918" x2="12.065" y2="48.26" width="0.9144" layer="16"/>
 <wire x1="12.3444" y1="50.7492" x2="10.287" y2="52.8066" width="0.9144" layer="16"/>
 <wire x1="10.287" y1="52.8066" x2="10.16" y2="53.34" width="0.9144" layer="16"/>
 <wire x1="12.3444" y1="50.7492" x2="12.7" y2="50.8" width="0.9144" layer="16"/>
@@ -2072,8 +2072,8 @@ design rules under a new name.</description>
 <contactref element="C8" pad="2"/>
 <contactref element="D2" pad="C"/>
 <contactref element="C12" pad="+"/>
-<wire x1="21.3614" y1="52.1208" x2="19.2024" y2="48.6918" width="0.9144" layer="16"/>
-<wire x1="19.2024" y1="48.6918" x2="19.05" y2="48.26" width="0.9144" layer="16"/>
+<wire x1="21.3614" y1="52.1208" x2="19.8374" y2="48.6918" width="0.9144" layer="16"/>
+<wire x1="19.8374" y1="48.6918" x2="19.685" y2="48.26" width="0.9144" layer="16"/>
 <wire x1="21.3614" y1="52.1208" x2="22.86" y2="52.07" width="0.9144" layer="16"/>
 <wire x1="19.8882" y1="58.293" x2="17.8308" y2="58.293" width="0.9144" layer="16"/>
 <wire x1="17.8308" y1="58.293" x2="17.78" y2="58.42" width="0.9144" layer="16"/>
